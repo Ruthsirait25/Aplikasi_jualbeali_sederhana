@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://hkbp-palmarum-d1f09-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+    <string name="gcm_defaultSenderId" translatable="false">502131968737</string>
+    <string name="google_api_key" translatable="false">AIzaSyCaxwBU7ClLp-gsaxs4Aq9OEgkL0ZN8Pqk</string>
+    <string name="google_app_id" translatable="false">1:502131968737:android:9433a82174d725159485a0</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCaxwBU7ClLp-gsaxs4Aq9OEgkL0ZN8Pqk</string>
+    <string name="google_storage_bucket" translatable="false">hkbp-palmarum-d1f09.appspot.com</string>
+    <string name="project_id" translatable="false">hkbp-palmarum-d1f09</string>
+</resources>
