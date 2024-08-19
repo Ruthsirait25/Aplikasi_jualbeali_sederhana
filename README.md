@@ -1,1 +1,1 @@
-# Aplikasi_jualbeali_sederhana
+# Aplikasi_jualbeli_sederhana
